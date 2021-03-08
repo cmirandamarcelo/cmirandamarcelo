@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Data Scientist Nano Degree on Udacity 
-- 🌱 I’m currently learning about Machine Learning
+- 💻 I’m currently working as a Business Intelligence Specialist at Healthcare company. 
+- 📈 I’m currently learning about Data Sciente and Machine Learning at Udacity (Data Scientist Nano Degree)
 - 👯 I’m looking to collaborate on Data Science Projects
 - 🤔 I’m looking for help with how get hired abroad
 - 💬 Ask me about Data Modeling, Dimensional Modeling, Data Engineering, Business Inteligence, Data Analysis, SQL, Python, PowerBI
